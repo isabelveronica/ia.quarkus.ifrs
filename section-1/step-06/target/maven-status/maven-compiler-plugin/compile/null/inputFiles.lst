@@ -3,4 +3,5 @@
 /home/kali/Documents/quarkus-workshop-langchain4j/section-1/step-06/src/main/java/dev/langchain4j/quarkus/workshop/ImportmapResource.java
 /home/kali/Documents/quarkus-workshop-langchain4j/section-1/step-06/src/main/java/dev/langchain4j/quarkus/workshop/InMemoryEmbeddingStoreProvider.java
 /home/kali/Documents/quarkus-workshop-langchain4j/section-1/step-06/src/main/java/dev/langchain4j/quarkus/workshop/RagIngestion.java
+/home/kali/Documents/quarkus-workshop-langchain4j/section-1/step-06/src/main/java/dev/langchain4j/quarkus/workshop/RagRetrievalLog.java
 /home/kali/Documents/quarkus-workshop-langchain4j/section-1/step-06/src/main/java/dev/langchain4j/quarkus/workshop/RagRetriever.java

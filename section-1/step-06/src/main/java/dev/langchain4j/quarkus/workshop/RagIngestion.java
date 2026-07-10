@@ -80,7 +80,7 @@ public class RagIngestion {
         EmbeddingStoreIngestor ingestor = EmbeddingStoreIngestor.builder()
                 .embeddingStore(store)
                 .embeddingModel(embeddingModel)
-                .documentSplitter(recursive(100, 25, new HuggingFaceTokenCountEstimator()))
+                .documentSplitter(recursive(500, 50, new HuggingFaceTokenCountEstimator()))
                 .build();
 
         // Fatia os JSONs/PDFs, gera os vetores e salva no banco mantendo a tag de contexto
