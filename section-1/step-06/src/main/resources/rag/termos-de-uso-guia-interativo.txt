@@ -1,0 +1,44 @@
+Termos de Uso do Guia Interativo Digital (Chatbot) – IFRS-POA
+
+1. Introdução
+Estes Termos de Serviço (“Termos”) regem o acesso ou uso por você, como indivíduo, do Guia Interativo Digital (“Chatbot”), uma aplicação de assistência baseada em texto automatizado disponibilizada pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul - Campus Porto Alegre (IFRS-POA).
+
+2. Os Serviços
+O Chatbot tem como objetivo atuar como um guia interativo para fornecer informações institucionais, responder a dúvidas frequentes e auxiliar na navegação de serviços acadêmicos. A ferramenta encontra-se em fase de construção e testes (versão Beta). Reservamo-nos o direito de descontinuar, modificar, suspender ou interromper os Serviços do Chatbot a qualquer momento, para fins de manutenção ou atualização, sem aviso prévio e sem qualquer responsabilidade associada.
+
+3. Interação e Uso de Informações
+3.1 Os usuários interagem com o Chatbot por meio de mensagens de texto na plataforma em que ele estiver integrado.
+
+3.2 O Chatbot fornece respostas automatizadas com caráter exclusivamente informativo. As respostas não substituem as publicações em editais oficiais, resoluções ou orientações formais das secretarias e coordenadorias do IFRS-POA.
+
+3.3 Por estar em fase de desenvolvimento, o Chatbot pode eventualmente apresentar falhas, respostas imprecisas ou incompletas. O usuário é responsável por verificar informações críticas nos canais oficiais da instituição.
+
+4. Coleta de Dados e Privacidade (Em Construção)
+4.1 Para fins de aprimoramento da inteligência e das respostas do Chatbot, os históricos de conversas e as perguntas enviadas poderão ser armazenados e analisados de forma anônima pela equipe de desenvolvimento.
+
+4.2 Atenção: Por estar em fase de testes, os usuários não devem fornecer dados pessoais sensíveis (como senhas, documentos pessoais ou dados financeiros) nas interações com o Chatbot.
+
+5. Uso Adequado da Ferramenta
+O Guia Interativo Digital (Chatbot) não deve ser utilizado para:
+
+Envio de mensagens com conteúdos ofensivos, abusivos, obscenos, difamatórios ou que configurem assédio.
+
+Testes maliciosos de sobrecarga do sistema (ataques de negação de serviço ou spam de mensagens).
+
+Tentar extrair dados do sistema de forma fraudulenta ou violar o código de programação da aplicação.
+
+Simular a identidade de terceiros ou enganar o sistema com informações intencionalmente falsas de forma prejudicial.
+
+6. Responsabilidade
+6.1 O usuário será responsabilizado civil, penal e administrativamente por qualquer uso indevido, abusivo ou ilegal da ferramenta de Chatbot.
+
+6.2 Por se tratar de uma aplicação em desenvolvimento, o IFRS-POA não aceita responsabilidade por decisões tomadas pelo usuário baseadas unicamente em respostas incorretas ou desatualizadas geradas de forma automatizada pelo Chatbot.
+
+7. Legislação Aplicável
+Estes termos serão regidos e interpretados de acordo com as leis da República Federativa do Brasil (incluindo a Lei Geral de Proteção de Dados - LGPD). Qualquer disputa relacionada a esta ferramenta será submetida ao Foro da Justiça Federal da Seção Judiciária do Rio Grande do Sul.
+
+8. Alterações nestes Termos
+Como o Chatbot está em constante evolução e construção, estes termos podem ser revisados e atualizados a qualquer momento. Recomenda-se a consulta periódica desta página para acompanhar as modificações.
+
+9. Aceitação destes Termos
+Ao iniciar a interação e utilizar o Guia Interativo Digital (Chatbot), você reconhece que está ciente de que a ferramenta está em fase de construção, compreende suas limitações e concorda em cumprir estes Termos. Se você não concorda, por favor, encerre a interação com o Chatbot.

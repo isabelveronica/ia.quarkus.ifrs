@@ -1,0 +1,10 @@
+# Ambientes e Credenciais
+.env
+.env.local
+.env.*.local
+*.env
+
+# Compilação e Build (Java/Maven)
+target/
+*.class
+.mvn/wrapper/maven-wrapper.jar
